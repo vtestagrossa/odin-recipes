@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+img {
+    height: 310px;
+    width: auto;
+}
+h1 {
+    margin:-10px;
+    border:15px;
+    text-align: center;
+}
+.h1-top {
+    margin-left: 10px;
+    margin-right: 10px;
+    border:15px;
+    background-color: black;
+    color:white;
+}
+.banner-img {
+    margin:10px;
+    border:15px;
+    text-align:center;
+    background-color: black;
+}
