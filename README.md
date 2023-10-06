@@ -1,1 +1,1 @@
-A simple HTML page with my favorite recipes. This demonstrates the use of links, headings, ordered and unordered lists, images, and git.
+A simple webpage with three my favorite recipes to refresh my skills with HTML and CSS. 
