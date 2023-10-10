@@ -1,6 +1,6 @@
 img {
-    height: 310px;
     width: auto;
+    height: 250px;
 }
 h1 {
     text-align: center;
@@ -15,8 +15,9 @@ h1 {
     border-style: solid;
     border-color: lime;
     color:white;
-    height: 15%;
+    /* height: 15%; */
 }
+/* I want to use this to contain 3 columns, with the majority of the content focused into the center. */
 .body-container{
     display: flex;
     align-items:center;
@@ -26,6 +27,7 @@ h1 {
     border-style: solid;
     border-color: lime;
     color: white;
+    /* height: 85%; */
 }
 .menu-left{
     display: flex;
